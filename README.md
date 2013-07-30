@@ -1,4 +1,5 @@
 # Tutorial: Yoda & Krang
+(Live: http://jhiggins.thrillist.com/krang )
 
 ### Yoda - Our router implementation
 ![Yoda] (http://assets3.thrillist.com/v1/image/881680/size/tl-vertical_stack "Yoda")
